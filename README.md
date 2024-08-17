@@ -88,6 +88,14 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
 
 <br>
 
+<div align="center">
+  <a >
+    <img width="100%" src="MyBanner.jpg" />
+  </a>
+</div>
+
+<br>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">Web Development</h3>
