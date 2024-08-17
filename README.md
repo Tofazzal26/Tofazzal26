@@ -2,13 +2,12 @@
 
 <div align="center">
   <a href="https://bento.me/kenangain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
-
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Tofazzal Hossain's Card" />
 
   </a>
 </div>
 
-<h1 align="center">👋 Hello, I'm Kenan Gain</h1>
+<h1 align="center">👋 Hello, I'm Tofazzal Hossain</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -24,7 +23,7 @@
   <tr>
     <td align="center">
       <a href="https://www.kenangain.com/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Tofazzal Hossain">
       </a>
     </td>
     <td align="center">
@@ -39,12 +38,12 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Tofazzal Hossain">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Tofazzal Hossain">
       </a>
     </td>
   </tr>
@@ -71,7 +70,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Tofazzal Hossain">
       </a>
     </td>
   </tr>
@@ -79,11 +78,9 @@
 
 <br>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -119,6 +116,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
+
 <div align="center">
   <table>
     <tr>
@@ -156,17 +154,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <br>
 
 ### KenanGain/README.md activity
+
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
 <br>
+
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
-
-
 
 </div>
 
@@ -195,7 +193,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   
 </div>
 <div align="center">
-
 
 <div align="center">
 
@@ -230,10 +227,10 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-
 <h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
+
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
@@ -261,7 +258,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <!-- Dev Profile -->
     <td align="center">
       <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Tofazzal Hossain's Dev Card"/>
       </a>
     </td>
     <!-- roadmap.sh Profile -->
@@ -271,15 +268,12 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-
 <h3 align="center">Stack overflow</h3>
 <div align="center">
 <a href="https://stackoverflow.com/users/21519409/kenan-gain">
 <img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
 </a>
 </div>
-
-
 
 </div>
 
@@ -348,8 +342,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tbody>
 </table>
 </div>
-
-
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -527,7 +519,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </table>
 </div>
 
-
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -623,7 +614,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </table>
 </div>
 
-
 <h2 align="center">🏆 Featured Projects</h2>
 
 <table align="center">
@@ -675,20 +665,17 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
+
 <h5 align="center">Enjoy the tunes!</h5>
 <p align="center">
 <a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
 </a>
 
-
 </p>
-
-
 
 <h3 align="center">Top Artists of Playlist</h3>
 
@@ -713,7 +700,6 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </a>
   </details>
 </div>
-
 
 <h2 align="center">Support Me</h2>
 <div align="center">
@@ -756,15 +742,13 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
   </table>
 
-
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <table align="center">
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Tofazzal Hossain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -780,14 +764,12 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   </tr>
 </table>
 
-
 <br>
 
 <h3>
 <div align="center">
   
 ⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
-
 
 </div>
 </h3>
