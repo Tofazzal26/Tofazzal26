@@ -90,11 +90,9 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
 
 <div align="center">
   <a >
-    <img width="100%" src="MyBanner.jpg" />
+    <img width="100%" src="Api.gif" />
   </a>
 </div>
-
-<br>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
