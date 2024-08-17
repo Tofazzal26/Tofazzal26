@@ -425,34 +425,10 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
 </table>
 </div>
 
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Tofazzal Hossain" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ From [Tofazzal Hossain](https://github.com/Tofazzal26) | Let's innovate together! 🚀
 
 </div>
 </h3>
