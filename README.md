@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=Tofazzal26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
@@ -86,136 +86,7 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
   </table>
 </div>
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-</details>
-
 <br>
-
-### KenanGain/README.md activity
-
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
-<br>
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
-
-</div>
-
-<h2 align="center">Socials Stats</h2>
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-          <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-        </a>
-    <h3>
-     <a href="https://www.instagram.com/knightgamer87/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-  Follow Me on Instagram
-</a>
-    </h3>
-  </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-230%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
-      Join Our Discord Community
-    </a>
-  </h3>
-
-</div>
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>
-    <!-- Discord Banner Column -->
-    <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>
-    <!-- Discord Presence Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
-</p>
-
-<h3 align="center">Steam Profile</h3>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
-  </a>
-</p>
-
-<table>
-  <tr>
-    <!-- Dev Profile Header -->
-    <th align="center">
-      Dev Profile
-    </th>
-    <!-- roadmap.sh Profile Header -->
-    <th align="center">
-      roadmap.sh Profile
-    </th>
-  </tr>
-  <tr>
-    <!-- Dev Profile -->
-    <td align="center">
-      <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Tofazzal Hossain's Dev Card"/>
-      </a>
-    </td>
-    <!-- roadmap.sh Profile -->
-    <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
-</a>
-</div>
-
-</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
