@@ -13,10 +13,6 @@
 
 </p>
 
-<p align="center">
-  Content Creator | Gamer | Tech Enthusiast
-</p>
-
 <div align="center">
 
 <br>
@@ -26,16 +22,17 @@
 </p>
 
 <h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a developer I can demonstrate any frontend requirement in a beautifully attractive way. I am very
+serious and focused in my work. I love to take new challenges. I think it's better to fail than to
+succeed on the shoulders of others. Administered. Attained. Arranged.
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tofazzal26&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tofazzal26&custom_title=Tofazzal26's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
