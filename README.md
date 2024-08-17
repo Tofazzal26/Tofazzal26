@@ -24,7 +24,7 @@
 <h2 align="center">🚀 About Me</h2>
 As a developer I can demonstrate any frontend requirement in a beautifully attractive way. I am very
 serious and focused in my work. I love to take new challenges. I think it's better to fail than to
-succeed on the shoulders of others. Administered. Attained. Arranged.
+succeed on the shoulders of others. Administered. Attained. Arranged I am a developer passionate about showcasing frontend requirements in an attractive way, I am serious, focused, and love new challenges believing it's better to fail independently than succeed relying on others.
 
 <h3 align="center">Git Stats</h3>
 
@@ -38,13 +38,13 @@ succeed on the shoulders of others. Administered. Attained. Arranged.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tofazzal26&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tofazzal26&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tofazzal26&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
