@@ -425,57 +425,6 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
 </table>
 </div>
 
-<h2 align="center">🏆 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
-      <br>
-      <strong>Your Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
