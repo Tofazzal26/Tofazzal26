@@ -51,9 +51,9 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Tofazzal26&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tofazzal26&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
 
