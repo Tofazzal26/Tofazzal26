@@ -61,25 +61,25 @@ succeed on the shoulders of others. Administered. Attained. Arranged I am a deve
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Tofazzal26/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Tofazzal26/transcreaw-client-site">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=transcreaw-client-site&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tofazzal26/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Tofazzal26/luxury-hotel-client-site">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=luxury-hotel-client-site&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Tofazzal26/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Tofazzal26/artisan-corner-client-site">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=artisan-corner-client-site&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tofazzal26/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Tofazzal26/reallist-home">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tofazzal26&repo=reallist-home&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
