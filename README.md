@@ -2,7 +2,7 @@
 
 <div align="center">
   <a >
-    <img width="100%" src="MyBanner.jpg" />
+    <img width="100%" src="BestBanner.jpg" />
   </a>
 </div>
 
